@@ -1,4 +1,4 @@
-# KrishiConnect: Project Documentation
+# KrishiConnect
 
 ## 1. Project Overview
 **KrishiConnect** is an integrated platform aimed at empowering farmers with real-time crop prices, market access, and localized agricultural insights. It eliminates middlemen, ensures price transparency, and directly connects farmers with buyers (APMC traders). 
